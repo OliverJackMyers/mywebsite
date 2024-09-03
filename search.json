@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oliver Myers",
+    "section": "",
+    "text": "Oliver Myers Data Science in UTD EEPS.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nplot(iris, col='forestgreen')"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nOliver Myers is a User Experience Researcher and Designer - Current Applied Cognition and Neuroscience Masters Student at UTD."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nOliver Myers is a User Experience Researcher and Designer - Current Applied Cognition and Neuroscience Masters Student at UTD."
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
+    "section": "",
+    "text": "I am a dog person. 🐀"
+  }
+]
